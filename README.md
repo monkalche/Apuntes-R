@@ -1,4 +1,6 @@
-# Apuntes-R
+# Apuntes de Programación en R
 repositorio del libro
 
-> Apuntes de Programación en R
+> Autor: F.M.N
+
+
