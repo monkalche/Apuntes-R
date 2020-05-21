@@ -1,2 +1,4 @@
 # Apuntes-R
-Apuntes de Programación en R
+repositorio del libro
+
+> Apuntes de Programación en R
