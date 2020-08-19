@@ -14,6 +14,10 @@ repositorio del libro
  
   - [x] MikTex
   
+ Si usted quiere usar los **`\ding{51}`**, entonces en la cabecera de los paquetes en latex para knitr(pagina 173):
+ 
+ **`\usepackage{pifont}`**
+  
   Si hay algún error en el libro por favor comunicarse a este correo: **moriland11@hotmail.com**.
   
   Muchas gracias.
